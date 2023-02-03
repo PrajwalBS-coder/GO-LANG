@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-var k,j int12
+var k,j int 
 
 fmt.Print("Enter No")	
 fmt.Scan(&k)
