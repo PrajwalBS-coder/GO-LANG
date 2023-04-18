@@ -1,6 +1,7 @@
 package main
 
 import "fmt"
+import "math"
 
 func main(){
 var k,j int 
@@ -13,4 +14,5 @@ fmt.Println("Addition = ",k+j)
 fmt.Println("Substraction=",k-j)
 fmt.Println("Mulpliaction=",k*j)
 fmt.Println("Devision=",k/j)
+fmt.Println("Square=",math.Sqrt(34))
 }
